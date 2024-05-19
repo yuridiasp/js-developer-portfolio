@@ -1,32 +1,39 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
+  "nome": "Yuri Dias",
+  "titulo": "Denvolvedor Web",
   "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
+    "cidade": "Aracaju",
+    "estado": "Sergipe",
     "pais": "Brasil"
   },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "telefone": "(79) 98111-5570",
+  "email": "yuristardias@hotmail.com",
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "nome": "JavaScript",
+        "logo": "/assets/img/icons/tools/js.svg"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "nome": "GIT / Github",
+        "logo": "/assets/img/icons/tools/git.svg"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "nome": "NodeJS",
+        "logo": "/assets/img/icons/tools/nodejs.svg"
+      },
+      {
+        "nome": "MongoDB",
+        "logo": "/assets/img/icons/tools/mongo.svg"
       }
     ],
     "softSkills": [
-      "Comunicação",
-      "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Liderança",
+      "Facilidade de comunicação",
+      "Organização",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Empatia"
     ]
   },
   "idiomas": [
@@ -49,79 +56,120 @@
       "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
       "instituicao": "Digital Innovation One (DIO)",
       "periodo": {
-        "inicio": "2019",
+        "inicio": "2024",
         "fim": "Atualmente"
       },
+      "conquistas": [
+        {
+          "nome": "Fundamento de Ia para Devs",
+          "logo": "assets/img/icons/achievements/bootcamp-santander.webp"
+        },
+        {
+          "nome": "Chatgpt para Devs",
+          "logo": "assets/img/icons/achievements/chatgpt-for-devs.png"
+        },
+        {
+          "nome": "Formação HTML Web Developer",
+          "logo": "assets/img/icons/achievements/html-developer.webp"
+        },
+        {
+          "nome": "Formação CSS Web Developer",
+          "logo": "assets/img/icons/achievements/css-developer.webp"
+        },
+        {
+          "nome": "Formação Javascript Developer",
+          "logo": "assets/img/icons/achievements/js-developer.webp"
+        }
+      ],
       "certificados": [
         {
-          "nome": "Formação: Blockchain Specialist (25h)",
-          "link": "https://www.dio.me/certificate/28601B02"
+          "nome": "Formação HTML Web Developer (21h)",
+          "link": "https://www.dio.me/certificate/RTXTZOJV"
         },
         {
-          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
-          "link": "https://www.dio.me/certificate/07041B99"
+          "nome": "Formação CSS Web Developer (43h)",
+          "link": "https://www.dio.me/certificate/APVBJDD2"
         },
         {
-          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
-          "link": "https://www.dio.me/certificate/F12AC30B"
+          "nome": "Lógica de Programação Essencial (4h)",
+          "link": "https://www.dio.me/certificate/TNADVWBP"
         },
         {
-          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
-          "link": "https://www.dio.me/certificate/3FB20BF1"
+          "nome": "Introdução à Programação e Pensamento Computacional (5h)",
+          "link": "https://www.dio.me/certificate/NPUH8HFO"
         },
         {
-          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
-          "link": "https://www.dio.me/certificate/BA099F34"
+          "nome": "Santander 2024 - Fundamentos de IA para Devs",
+          "link": "https://www.dio.me/certificate/B3OIOBTX"
         }
       ]
     },
     {
-      "nome": "Doutorado em Engenharia de Software",
-      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2018",
-        "fim": "Atualmente"
-      }
-    },
-    {
-      "nome": "Mestrado em Engenharia de Software",
-      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2012",
-        "fim": "2015"
-      }
-    },
-    {
       "nome": "Bacharelado em Engenharia de Computação",
       "descricao": "",
-      "instituicao": "Universidade de Araraquara (UNIARA)",
+      "instituicao": "Universidade de Sergipe (UFS)",
       "periodo": {
-        "inicio": "2007",
-        "fim": "2011"
+        "inicio": "2016",
+        "fim": "Atualmente"
       }
     }
   ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "nome": "Construindo uma Pokédex com JavaScript",
+      "gitHub": "https://github.com/yuridiasp/js-developer-pokedex",
+      "certificado": "https://www.dio.me/certificate/IOPBO15B/share"
     },
     {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "nome": "Clonando o Site da HBO Max com Animações em HTML e CSS",
+      "gitHub": "https://github.com/yuridiasp/hbomax",
+      "certificado": "https://www.dio.me/certificate/NUEL2HJE"
+    },
+    {
+      "nome": "Construindo um Layout Responsivo Para o Site do Discord Com CSS",
+      "gitHub": "https://github.com/yuridiasp/trilha-css-desafio-04",
+      "certificado": "https://www.dio.me/certificate/AJSIYR1X"
+    },
+    {
+      "nome": "Criando um Ebook com ChatGPT & MidJourney",
+      "gitHub": "https://github.com/yuridiasp/prompts-recipe-to-create-a-ebook",
+      "certificado": "https://www.dio.me/certificate/N2ZGMDCH"
     }
   ],
   "experiencias": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
+      "nome": "Freelance",
+      "descricao": "Suporte técnico em sistemas de geração de boletos do Banco da Caixa Econômica: Reinstalação de sistemas; Configuração da aplicação e vinculação à base de dados; Atendimento ao cliente por telefone e acesso remoto.",
+      "instituicao": "3i Informática Ltda",
       "periodo": {
-        "inicio": "03/2021",
+        "inicio": "11/2016",
+        "fim": "01/2017"
+      }
+    },
+    {
+      "nome": "Aprendiz Monitor de Qualidade",
+      "descricao": "Jovem aprendiz na Monitoria de qualidade do produto Combo Multi da NET: Auditoria de ligações para análise qualitativa dos atendimentos receptivos por meio de paper de monitoria; Análise de abertura de manifestos em órgãos regulatórios (Anatel/Procon); Análise de visitas técnicas improdutivas; Análise de rechamada em períodos de 1 hora, 24 horas e 72 horas.",
+      "instituicao": "Almaviva Do Brasil",
+      "periodo": {
+        "inicio": "04/2018",
+        "fim": "06/2019"
+      }
+    },
+    {
+      "nome": "Atendente de telemarketing",
+      "descricao": "Atendimento receptivo para os produtos Claro Móvel: Suporte técnico, financeiro e assuntos gerais dos segmentos Claro Pós-pago, Claro Controle e Claro Pré-pago; Atendimento especializado de retenção do segmento Claro Controle.",
+      "instituicao": "Almaviva Do Brasil",
+      "periodo": {
+        "inicio": "10/2019",
+        "fim": "03/2021"
+      }
+    },
+    {
+      "nome": "Assistente adminstrativo",
+      "descricao": "Análise e cadastramento de intimações recebidas da justiça estadual e federal. Suporte a atendimentos presenciais, virtuais e em interior do estado. Suporte T.I. Desenvolvimento de aplicações, tais como extensões de navegadores e utilitários para automação de ações repetitivas. Organização e gerenciamento de arquivo digital e físico. Digitalização de documentos. Atendimento telefônico ao cliente. Cadastro de processos. Cadastro de clientes.",
+      "instituicao": "3I Informática Ltda",
+      "periodo": {
+        "inicio": "02/2022",
         "fim": "Atualmente"
       }
     }

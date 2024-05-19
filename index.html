@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portifólio Renan J Paula</title>
+    <title>Portifólio Yuri Dias P G</title>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
         integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="/assets/css/header.css">
     <link rel="stylesheet" href="/assets/css/acordeon.css">
     <link rel="stylesheet" href="/assets/css/languages.css">
+    <link rel="stylesheet" href="/assets/css/education.css  ">
     <link rel="stylesheet" href="/assets/css/portfolio.css">
     <link rel="stylesheet" href="/assets/css/experience.css">
     <link rel="stylesheet" href="/assets/css/skills.css">
@@ -27,25 +28,25 @@
 <body>
     <main class="main">
         <header class="header">
-            <img src="/assets/img/my-photo.jpeg" alt="Foto de Renan J Paula" class="photo">
+            <img src="https://avatars.githubusercontent.com/u/81938754" alt="Foto de Renan J Paula" class="photo">
 
             <h1 class="title">
-                Olá, <br>eu sou Renan J Paula
+                Olá, <br>eu sou Yuri Dias
             </h1>
 
             <div class="information">
-                <p class="job">Tech Lead no S3 Bank</p>
-                <p class="location">São Paulo - BR</p>
+                <p class="job">Desenvolvedor Web</p>
+                <p class="location">Sergipe - BR</p>
                 <p class="phone">
-                    <a href="tel:(16) 9 9999-9999">(16) 9 9999-9999</a>
+                    <a href="tel:(16) 9 9999-9999">(79) 9 8111-5570</a>
                 </p>
                 <p class="email">
-                    <a href="mailto:ex@mail.com">ex@mail.com</a>
+                    <a href="mailto:ex@mail.com">yuristardias@hotmail.com</a>
                 </p>
             </div>
         </header>
 
-        <section class="acordeon open">
+        <section class="acordeon">
             <button class="trigger" type="button">
                 <h2>Skills</h2>
             </button>
@@ -65,7 +66,10 @@
                                 <img src="/assets/img/icons/tools/git.svg" alt="GIT" title="GIT">
                             </li>
                             <li>
-                                <img src="/assets/img/icons/tools/java.svg" alt="Java" title="Java">
+                                <img src="/assets/img/icons/tools/js.svg" alt="JavaScript" title="JavaScript">
+                            </li>
+                            <li>
+                                <img src="/assets/img/icons/tools/mongo.svg" alt="MongoDB" title="MongoDB">
                             </li>
                         </ul>
                     </section>
@@ -92,9 +96,35 @@
             <div class="content">
                 <ul class="languages">
                     <li>Português</li>
-                    <li>Ingles</li>
-                    <li>Italiano</li>
-                    <li>Espanhol</li>
+                    <li>Ingles (Intermediário)</li>
+                    <li>Espanhol (Básico)</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="acordeon open">
+            <button class="trigger" type="button">
+                <h2>Educação</h2>
+            </button>
+
+            <div class="content">
+                <div class="achievements">
+                    <h3>Minhas conquistas na DIO</h3>
+                    <div id="conquistas">
+                        <figure>
+                            <img src="assets/img/icons/achievements/bootcamp-santander.webp" alt="Fundamento de IA">
+                        </figure>
+                    </div>
+                </div>
+                <ul class="education">
+                    <li>
+                        <h3 class="title">dio.me</h3>
+                        <a href="https://www.dio.me/users/yuristardias" target="_blank">Acesse o meu perfil público aqui</a>
+                    </li>
+                    <li>
+                        <h3 class="title">Engenharia de Computação</h3>
+                        <p>Universidade Federela de Sergipe - Cursando</p>
+                    </li>
                 </ul>
             </div>
         </section>
@@ -154,6 +184,7 @@
     </main>
 
     <script src="/assets/js/acordeon.js"></script>
+    <script src="assets/js/api.js"></script>
 </body>
 
 </html>
