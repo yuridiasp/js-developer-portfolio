@@ -2,6 +2,8 @@
 
 Explorando os conceitos aprendido no curso Formação JavaScript Developer da DIO, foi implementado uma página de portfólio dinâmica usando HTML, CSS e Javascript.
 
+[Página no Github Pages](https://yuridiasp.github.io/js-developer-portfolio/)
+
 
 [Link do Figma](https://www.figma.com/file/g6zA6klLrCWZAp76tzoVJZ/Portfolio---EDUCATION?node-id=0%3A1) contendo o protótipo do desafio.
 
