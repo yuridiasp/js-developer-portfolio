@@ -13,19 +13,19 @@
     "hardSkills": [
       {
         "nome": "JavaScript",
-        "logo": "/assets/img/icons/tools/js.svg"
+        "logo":"assets/img/icons/tools/js.svg"
       },
       {
         "nome": "GIT / Github",
-        "logo": "/assets/img/icons/tools/git.svg"
+        "logo": "assets/img/icons/tools/git.svg"
       },
       {
         "nome": "NodeJS",
-        "logo": "/assets/img/icons/tools/nodejs.svg"
+        "logo": "assets/img/icons/tools/nodejs.svg"
       },
       {
         "nome": "MongoDB",
-        "logo": "/assets/img/icons/tools/mongo.svg"
+        "logo": "assets/img/icons/tools/mongo.svg"
       }
     ],
     "softSkills": [
