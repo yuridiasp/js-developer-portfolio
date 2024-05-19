@@ -1,78 +1,178 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "photo": "https://avatars.githubusercontent.com/u/81938754",
+  "nome": "Yuri Dias",
+  "titulo": "Denvolvedor Web",
+  "localidade": {
+    "cidade": "Aracaju",
+    "estado": "Sergipe",
+    "pais": "Brasil"
+  },
+  "telefone": "(79) 98111-5570",
+  "email": "yuristardias@hotmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "nome": "JavaScript",
+        "logo": "/assets/img/icons/tools/js.svg"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "nome": "GIT / Github",
+        "logo": "/assets/img/icons/tools/git.svg"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "nome": "NodeJS",
+        "logo": "/assets/img/icons/tools/nodejs.svg"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "nome": "MongoDB",
+        "logo": "/assets/img/icons/tools/mongo.svg"
       }
     ],
     "softSkills": [
-      "Empatia",
       "Liderança",
+      "Facilidade de comunicação",
+      "Organização",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"
+      "Empatia"
     ]
   },
-  "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+  "idiomas": [
+    {
+      "nome": "Português",
+      "nivel": "Nativo"
+    },
+    {
+      "nome": "Inglês",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "Espanhol",
+      "nivel": "Básico"
+    }
+  ],
+  "educacao": [
+    {
+      "nome": "dio.me",
+      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
+      "instituicao": "Digital Innovation One (DIO)",
+      "periodo": {
+        "inicio": "2024",
+        "fim": "Atualmente"
+      },
+      "conquistas": [
+        {
+          "nome": "Fundamento de Ia para Devs",
+          "logo": "assets/img/icons/achievements/bootcamp-santander.webp"
+        },
+        {
+          "nome": "Chatgpt para Devs",
+          "logo": "assets/img/icons/achievements/chatgpt-for-devs.png"
+        },
+        {
+          "nome": "Formação HTML Web Developer",
+          "logo": "assets/img/icons/achievements/html-developer.webp"
+        },
+        {
+          "nome": "Formação CSS Web Developer",
+          "logo": "assets/img/icons/achievements/css-developer.webp"
+        },
+        {
+          "nome": "Formação Javascript Developer",
+          "logo": "assets/img/icons/achievements/js-developer.webp"
+        }
+      ],
+      "certificados": [
+        {
+          "nome": "Formação HTML Web Developer (21h)",
+          "link": "https://www.dio.me/certificate/RTXTZOJV"
+        },
+        {
+          "nome": "Formação CSS Web Developer (43h)",
+          "link": "https://www.dio.me/certificate/APVBJDD2"
+        },
+        {
+          "nome": "Lógica de Programação Essencial (4h)",
+          "link": "https://www.dio.me/certificate/TNADVWBP"
+        },
+        {
+          "nome": "Introdução à Programação e Pensamento Computacional (5h)",
+          "link": "https://www.dio.me/certificate/NPUH8HFO"
+        },
+        {
+          "nome": "Santander 2024 - Fundamentos de IA para Devs",
+          "link": "https://www.dio.me/certificate/B3OIOBTX"
+        }
+      ]
+    },
+    {
+      "nome": "Bacharelado em Engenharia de Computação",
+      "descricao": "",
+      "instituicao": "Universidade de Sergipe (UFS)",
+      "periodo": {
+        "inicio": "2016",
+        "fim": "Atualmente"
+      }
+    }
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
+      "nome": "Construindo uma Pokédex com JavaScript",
+      "gitHub": "https://github.com/yuridiasp/js-developer-pokedex",
+      "certificado": "https://www.dio.me/certificate/IOPBO15B/share"
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
+      "nome": "Clonando o Site da HBO Max com Animações em HTML e CSS",
+      "gitHub": "https://github.com/yuridiasp/hbomax",
+      "certificado": "https://www.dio.me/certificate/NUEL2HJE"
+    },
+    {
+      "nome": "Construindo um Layout Responsivo Para o Site do Discord Com CSS",
+      "gitHub": "https://github.com/yuridiasp/trilha-css-desafio-04",
+      "certificado": "https://www.dio.me/certificate/AJSIYR1X"
+    },
+    {
+      "nome": "Criando um Ebook com ChatGPT & MidJourney",
+      "gitHub": "https://github.com/yuridiasp/prompts-recipe-to-create-a-ebook",
+      "certificado": "https://www.dio.me/certificate/N2ZGMDCH"
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "nome": "Freelance",
+      "descricao": "Suporte técnico em sistemas de geração de boletos do Banco da Caixa Econômica: Reinstalação de sistemas; Configuração da aplicação e vinculação à base de dados; Atendimento ao cliente por telefone e acesso remoto.",
+      "instituicao": "3i Informática Ltda",
+      "periodo": {
+        "inicio": "11/2016",
+        "fim": "01/2017"
+      }
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "nome": "Aprendiz Monitor de Qualidade",
+      "descricao": "Jovem aprendiz na Monitoria de qualidade do produto Combo Multi da NET: Auditoria de ligações para análise qualitativa dos atendimentos receptivos por meio de paper de monitoria; Análise de abertura de manifestos em órgãos regulatórios (Anatel/Procon); Análise de visitas técnicas improdutivas; Análise de rechamada em períodos de 1 hora, 24 horas e 72 horas.",
+      "instituicao": "Almaviva Do Brasil",
+      "periodo": {
+        "inicio": "04/2018",
+        "fim": "06/2019"
+      }
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "nome": "Atendente de telemarketing",
+      "descricao": "Atendimento receptivo para os produtos Claro Móvel: Suporte técnico, financeiro e assuntos gerais dos segmentos Claro Pós-pago, Claro Controle e Claro Pré-pago; Atendimento especializado de retenção do segmento Claro Controle.",
+      "instituicao": "Almaviva Do Brasil",
+      "periodo": {
+        "inicio": "10/2019",
+        "fim": "03/2021"
+      }
+    },
+    {
+      "nome": "Assistente adminstrativo",
+      "descricao": "Análise e cadastramento de intimações recebidas da justiça estadual e federal. Suporte a atendimentos presenciais, virtuais e em interior do estado. Suporte T.I. Desenvolvimento de aplicações, tais como extensões de navegadores e utilitários para automação de ações repetitivas. Organização e gerenciamento de arquivo digital e físico. Digitalização de documentos. Atendimento telefônico ao cliente. Cadastro de processos. Cadastro de clientes.",
+      "instituicao": "Fábio Ribeiro Advogados",
+      "periodo": {
+        "inicio": "02/2022",
+        "fim": "Atualmente"
+      }
     }
   ]
 }
